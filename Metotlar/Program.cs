@@ -1,14 +1,14 @@
 ﻿using Metotlar;
 
 
-Urun urun1 = new Urun()
+Urun urun1 = new()
 {
     Adi = "Elma",
     Fiyati =15,
     Aciklama = "Amasya Elması"
 };
 
-Urun urun2 = new Urun()
+Urun urun2 = new()
 {
     Adi = "Karpuz",
     Fiyati = 80,
